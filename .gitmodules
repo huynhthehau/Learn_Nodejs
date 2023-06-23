@@ -1,0 +1,9 @@
+[submodule "nestjs-typeorm-basic"]
+	path = nestjs-typeorm-basic
+	url = https://github.com/huynhthehau/nestjs-typeorm-basic.git
+[submodule "learn_nestjs_2"]
+	path = learn_nestjs_2
+	url = https://github.com/huynhthehau/learn_nestjs_2.git
+[submodule "nestjs-prisma-basic"]
+	path = nestjs-prisma-basic
+	url = https://github.com/huynhthehau/nestjs-prisma-basic.git
